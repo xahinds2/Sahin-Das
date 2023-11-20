@@ -6,14 +6,14 @@
 
 
 
-# Sahin Das
+# [Sahin Das](https://github.com/xahinds2)
 ### - I'm 23 years old Software Engineer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://leetcard.jacoblin.cool/xahinds2?theme=unicorn&font=Oswald&ext=activity">
 
 ### - Learning :
-- ✨ [Data Structures & Algorithms](https://github.com/xahinds2/DataStructures)
 - ✨ [Software Development](https://github.com/xahinds2?tab=repositories)
+- ✨ [Data Structures & Algorithms](https://github.com/xahinds2/DataStructures)
 
 ### - Hobbies : 
 - ✨ Valorant [Watch dis !!](https://youtu.be/JTcxQobM2s0)
